@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @czVojtSu
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning ST and maybe XML
-- 💞️ I’m looking to collaborate ...
+- 💞️ I’m looking to collaborate with Non-Binary
 - 📫 How to reach me -> just text me :-)
 
 <!---
